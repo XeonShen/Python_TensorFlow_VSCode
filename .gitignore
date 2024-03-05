@@ -1,0 +1,12 @@
+ZJU MOOC/datasets/
+ZJU MOOC/model_ckpt/
+ZJU MOOC/model_h5/
+ZJU MOOC/model_logs/
+ZJU MOOC/model_pb/
+ZJU MOOC/model_yaml/
+
+NOTT CW/datasets/
+NOTT CW/model_h5/
+NOTT CW/model_lite/
+NOTT CW/model_pb/
+NOTT CW/model_yaml/
